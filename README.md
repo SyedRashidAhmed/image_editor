@@ -16,7 +16,8 @@ The Tkinter Image Drawing Tool is a Python application built using Tkinter that 
 ## Installation:
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/tkinter-image-drawing-tool.git
+   git clone https://github.com/SyedRashidAhmed/image_editor.git
+   
    ```
 2. Install dependencies:
    ```
